@@ -18,7 +18,9 @@ vector<int>dp;
         flg &= check(n-2);
         flg &= check(n-3);
         ek,fjv
+        aaaaaaaaaaaaaaa
         flg &= check(n-4);
+        
         flg &= check(n-5);
         
         return dp[n] = (flg==false);
