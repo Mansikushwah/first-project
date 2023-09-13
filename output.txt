@@ -1,0 +1,11 @@
+Name : mansi
+Age : 1
+Number of Matches : 1
+Average runs : 1
+*******************
+Name : kartik
+Age : 1
+Number of Matches : 1
+Average runs : 2
+*******************
+ÿ
