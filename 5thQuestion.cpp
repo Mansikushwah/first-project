@@ -17,7 +17,7 @@ vector<int>dp;
         flg &= check(n/5);
         flg &= check(n-2);
         flg &= check(n-3);
-        
+        ek,fjv
         flg &= check(n-4);
         flg &= check(n-5);
         
