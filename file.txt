@@ -1,0 +1,10 @@
+Name : mansi
+Age : 5
+Number of Matches : 7
+Average runs : 4
+*******************
+Name : kartik
+Age : 6
+Number of Matches : 4
+Average runs : 9
+*******************
